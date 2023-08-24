@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape>
+        <solid android:color="#03A9F4" /> <!-- Setează culoarea de umplere a chenarului -->
+        <corners android:radius="16dp" /> <!-- Setează raza pentru rotunjirea vârfurilor -->
+        <stroke
+            android:width="2dp"
+            android:color="#000000" /> <!-- Setează culoarea și grosimea conturului -->
+    </shape>
+
+</selector>
